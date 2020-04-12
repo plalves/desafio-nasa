@@ -34,6 +34,6 @@ Enquanto o reduceByKey irá realizar a operação em cada partição e após rea
 
 O código abaixo abre um determinado arquivo de texto informado, contabiliza quantas vezes cada palavra é referenciada no texto e salva o resultado em um arquivo de texto
 
-Instruções de execução:
+**Instruções de execução:**
 - Colocar os dois arquivos em um único diretório
 - Informar como parâmetro o diretório do arquivo

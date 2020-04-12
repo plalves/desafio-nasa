@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c3af2d7-0af2-4d06-bc35-d0b5fa9bae2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aS9u2aMWiwCBxlBJQG1D7RvTb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start_job" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="br.app.processLogs" />
+      <module name="processLogs" />
+      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$/Downloads/NasaDataLogs/" />
+      <option name="VM_PARAMETERS" value="-Dspark.master=local[*]" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3af2d7-0af2-4d06-bc35-d0b5fa9bae2f" name="Default Changelist" comment="" />
+      <created>1586718346244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586718346244</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586728413839">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="104" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.723@0.23.1280.723" timestamp="1586728413839" />
+    <state x="377" y="172" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586718384856">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="377" y="172" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.723@0.23.1280.723" timestamp="1586718384856" />
+    <state width="1238" height="240" key="GridCell.Tab.0.bottom" timestamp="1586728096791">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1586728096791" />
+    <state width="1238" height="124" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1586727701011" />
+    <state width="1238" height="240" key="GridCell.Tab.0.center" timestamp="1586728096790">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1586728096790" />
+    <state width="1238" height="124" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1586727701010" />
+    <state width="1238" height="240" key="GridCell.Tab.0.left" timestamp="1586728096790">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1586728096790" />
+    <state width="1238" height="124" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1586727701009" />
+    <state width="1238" height="240" key="GridCell.Tab.0.right" timestamp="1586728096791">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1238" height="240" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1586728096791" />
+    <state width="1238" height="124" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1586727701011" />
+    <state x="341" y="132" width="598" height="486" key="find.popup" timestamp="1586728426170">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="341" y="132" width="598" height="486" key="find.popup/0.23.1280.723@0.23.1280.723" timestamp="1586728426170" />
+  </component>
+</project>
