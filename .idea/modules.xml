@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafioNasaLogs.iml" filepath="$PROJECT_DIR$/desafioNasaLogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processLogs/processLogs.iml" filepath="$PROJECT_DIR$/processLogs/processLogs.iml" />
+    </modules>
+  </component>
+</project>
