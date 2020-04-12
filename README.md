@@ -26,7 +26,6 @@ Permitir a conexão entre o Driver Program e spark cluster. O sparkContext
 **GroupByKey é menos eficiente que reduceByKey em grandes dataset. Por que ?**
 
 Pelo tráfego de dados entre os nós pela rede. 
-
 Com o GroupByKey todo o dado é trafegado pela rede, reduceByKey trafega apenas o resultado da operação.
 GroupByKey irá transferir todo o conjunto de dados(Dataset) atráves da rede para os outros workers para que ele realize a operação. 
 Enquanto o reduceByKey irá realizar a operação em cada partição e após realizar o calculo transmitirá o resultado da operação para os outros workers. 
