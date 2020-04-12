@@ -1,0 +1,2 @@
+- Colocar os dois arquivos em um único diretório
+- Informar como parâmetro o diretório do arquivo
